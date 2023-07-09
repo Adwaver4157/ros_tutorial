@@ -1,0 +1,8 @@
+prefix=/root/workspace/catkin_ws/install
+
+Name: mycobot_style_config
+Description: Description of mycobot_style_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

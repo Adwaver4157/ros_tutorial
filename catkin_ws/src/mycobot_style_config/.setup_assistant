@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /root/workspace/catkin_ws/src/mycobot/mycobot_style.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/mycobot_style.srdf
+  CONFIG:
+    author_name: adwaver
+    author_email: adwaver4157@gmail.com
+    generated_timestamp: 1688921052

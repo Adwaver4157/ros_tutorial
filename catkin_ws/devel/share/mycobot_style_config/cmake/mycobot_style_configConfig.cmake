@@ -1,0 +1,1 @@
+/root/workspace/catkin_ws/devel/.private/mycobot_style_config/share/mycobot_style_config/cmake/mycobot_style_configConfig.cmake

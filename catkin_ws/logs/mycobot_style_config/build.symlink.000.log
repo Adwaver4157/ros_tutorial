@@ -1,0 +1,3 @@
+Symlinking /root/workspace/catkin_ws/devel/lib/pkgconfig/mycobot_style_config.pc
+Symlinking /root/workspace/catkin_ws/devel/share/mycobot_style_config/cmake/mycobot_style_configConfig.cmake
+Symlinking /root/workspace/catkin_ws/devel/share/mycobot_style_config/cmake/mycobot_style_configConfig-version.cmake

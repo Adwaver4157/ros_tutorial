@@ -1,0 +1,1 @@
+/root/workspace/catkin_ws/devel/.private/mycobot_style_config/lib/pkgconfig/mycobot_style_config.pc

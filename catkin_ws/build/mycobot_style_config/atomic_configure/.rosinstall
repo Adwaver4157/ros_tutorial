@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/workspace/catkin_ws/devel/.private/mycobot_style_config/setup.sh
